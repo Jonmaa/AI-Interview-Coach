@@ -1,0 +1,36 @@
+AI Engineer - Agentic AI Development
+
+About You:
+- 1+ years of experience with Agentic AI development
+- You have the common sense to identify the risks and opportunities associated with our work, as we are working in a space that has not been explored yet.
+- Collaborate with other top experts and expert communities in the field
+- Live long learning qualities, such as continuously enhancing your relevant experience levels.
+- A degree in data science, computer science, or neuro linguistics is a plus.
+
+Technical Experience:
+- Working experience with Generative-AI incl. LLMs, GPT-01, GPT-5 and APIs.
+- Experience in writing function calls and LangChain applications.
+- You need to have experience with Python or ColdFusion programming.
+- Experience with model fine-tuning and OpenAI Embeddings.
+- Experience with natural language processing (NLP), like Whisper, etc.
+- Strong problem-solving skills and the ability to work independently or in a team.
+
+Cognitive Abilities:
+- Your curiosity is far above average, and you want to know everything.
+- Your creativity is beyond the norm, and you develop unique and utterly helpful solutions.
+- You are well-connected with other engineers and peers, and get support from other brilliant minds.
+- You are collaborative, including the collaboration with AI. You involve others to ensure that the best possible solution is built.
+- Your competitiveness helps you find better, more efficient, and easier-to-use solutions.
+- You are continuous, never give up, and complete the tasks on time and on budget.
+- You are communicative and able to talk about your work with customers.
+
+Key Skills Required:
+- LangChain and LangGraph
+- Local LLMs (Ollama: Llama 3, Mistral, Gemma, Phi)
+- RAG (Retrieval Augmented Generation)
+- Function Calling / Tool Use
+- Python
+- Multi-agent systems
+- Vector databases (ChromaDB)
+- NLP and Whisper (speech-to-text)
+- HuggingFace sentence-transformers

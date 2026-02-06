@@ -1,0 +1,38 @@
+# ============================================
+# AI INTERVIEW COACH - DEPENDENCIES
+# ============================================
+# 100% FREE - No paid API keys required!
+# Install with: pip install -r requirements.txt
+
+# ---- LLM (FREE - Local via Ollama) ----
+# Ollama runs models locally: https://ollama.com
+# Supports: Llama 3, Mistral, Gemma 2, Phi-3, etc.
+langchain>=0.3.0
+langchain-ollama>=0.2.0
+langgraph>=0.2.0
+
+# ---- EMBEDDINGS (FREE - Local HuggingFace) ----
+# sentence-transformers run locally on CPU/GPU
+langchain-huggingface>=0.1.0
+sentence-transformers>=2.2.0
+
+# ---- VECTOR DATABASE (FREE - Local FAISS) ----
+faiss-cpu>=1.7.0
+langchain-community>=0.3.0
+
+# ---- DOCUMENT PROCESSING ----
+pypdf>=3.0.0
+python-docx>=0.8.11
+unstructured>=0.10.0
+
+# ---- NLP / SPEECH-TO-TEXT (FREE - Local Whisper) ----
+# OpenAI Whisper (open-source, NOT the paid API)
+openai-whisper>=20231117
+sounddevice>=0.4.6
+scipy>=1.10.0
+
+# ---- UI (Optional) ----
+streamlit>=1.30.0
+
+# ---- UTILITIES ----
+numpy>=1.24.0
